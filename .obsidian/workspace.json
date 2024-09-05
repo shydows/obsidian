@@ -11,8 +11,12 @@
             "id": "6e03ddf0c6dea1be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "智能计算系统 听课笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "智能计算系统 听课笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "智能计算系统 听课笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "智能计算系统 听课笔记.md"
+              }
             }
           },
           {
@@ -163,13 +171,17 @@
   },
   "active": "6e03ddf0c6dea1be",
   "lastOpenFiles": [
+    "智能计算系统 听课笔记3.md",
+    "智能计算系统 听课笔记.md",
+    "张钹院士 讲座笔记.md",
+    "开学典礼 笔记.md",
+    "describe.md",
+    "Three laws of motion.md",
     "Untitled.canvas",
+    "Obsidian.md",
     "Untitled 1.canvas",
     "Law of Inertia.md",
     "Isaac Newton.md",
-    "Three laws of motion.md",
-    "describe.md",
-    "Obsidian.md",
     "Media Note - 【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4K.md",
     "【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4KPT3M20.038S.webp",
     "Media Note - Me at the zoo.md",
@@ -180,10 +192,6 @@
     "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
     "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
     "段路明院士 讲座笔记.md",
-    "开学典礼 笔记.md",
-    "智能计算系统 听课笔记.md",
-    "张钹院士 讲座笔记.md",
-    "智能计算系统 听课笔记3.md",
     "NOTE A low-cost.md",
     "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
     "论文阅读/DSN论文/A low-cost fault corrector for deep neural networks through range restriction.pdf",
