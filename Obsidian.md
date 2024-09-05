@@ -7,7 +7,7 @@ tags:
 - 
 - ![[【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4KPT3M20.038S.webp|【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 | A7C2 | EP26 | 4K - 03:20|50]] [03:20](https://www.bilibili.com/video/BV1m7421R7iV/?t=200.03839#t=03:20.04) 
 # Sharpen your thinking.
-Obsidian is the ==private and flexible writing app that adapts to the way you think.==
+==Obsidian is the ==private and flexible writing app that adapts to the way you think.==
 
 
 [[NOTE A low-cost#^db1774920a7|Low-cost]]t to benign faults (which will not cause  

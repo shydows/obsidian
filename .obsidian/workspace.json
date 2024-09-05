@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e03ddf0c6dea1be",
+            "id": "fc3b8f9c14f9d52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能计算系统 听课笔记.md",
+                "file": "Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能计算系统 听课笔记.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能计算系统 听课笔记.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能计算系统 听课笔记.md"
+                "file": "Obsidian.md"
               }
             }
           },
@@ -169,39 +169,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e03ddf0c6dea1be",
+  "active": "fc3b8f9c14f9d52f",
   "lastOpenFiles": [
-    "智能计算系统 听课笔记3.md",
-    "智能计算系统 听课笔记.md",
-    "张钹院士 讲座笔记.md",
-    "开学典礼 笔记.md",
-    "describe.md",
-    "Three laws of motion.md",
-    "Untitled.canvas",
+    "Me at the zooPT9S.webp",
+    "Me at the zooPT3S.webp",
     "Obsidian.md",
-    "Untitled 1.canvas",
+    "Pasted image 20240901230607.png",
+    "Untitled.canvas",
+    "Three laws of motion.md",
+    "Pasted image 20240901080020.png",
+    "Pasted image 20240831232446.png",
+    "test auto push.md",
+    "智能计算系统 听课笔记.md",
+    "段路明院士 讲座笔记.md",
     "Law of Inertia.md",
     "Isaac Newton.md",
-    "Media Note - 【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4K.md",
-    "【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4KPT3M20.038S.webp",
-    "Media Note - Me at the zoo.md",
-    "Me at the zooPT9S.webp",
-    "Pasted image 20240904200701.png",
-    "Me at the zooPT3S.webp",
-    "论文阅读/DSN论文/Ml-based Fault Injection for Autonomous Vehicles.md",
-    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
-    "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
-    "段路明院士 讲座笔记.md",
-    "NOTE A low-cost.md",
-    "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
-    "论文阅读/DSN论文/A low-cost fault corrector for deep neural networks through range restriction.pdf",
+    "describe.md",
     "论文阅读/DSN论文/PID-Piper. Recovering Robotic Vehicles from Physical Attacks.pdf",
+    "【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4KPT3M20.038S.webp",
+    "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
+    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
+    "论文阅读/DSN论文/A low-cost fault corrector for deep neural networks through range restriction.pdf",
+    "论文阅读/DSN论文/Ml-based Fault Injection for Autonomous Vehicles.md",
+    "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
+    "开学典礼 笔记.md",
+    "张钹院士 讲座笔记.md",
+    "智能计算系统 听课笔记3.md",
+    "Untitled 1.canvas",
+    "Media Note - 【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4K.md",
+    "Media Note - Me at the zoo.md",
+    "Pasted image 20240904200701.png",
+    "NOTE A low-cost.md",
     "论文阅读/回复论文/Towards Reliability Assessment of Systolic Arrays.pdf",
     "智能计算系统 听课笔记2.md",
-    "Pasted image 20240901230607.png",
-    "Pasted image 20240901080020.png",
     "Pasted image 20240901075955.png",
-    "Pasted image 20240831232446.png",
     "Pasted image 20240901080018.png",
     "Untitled",
     "().md",
