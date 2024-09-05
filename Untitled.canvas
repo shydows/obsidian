@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfd51e5d42be097b","x":-125,"y":-20,"width":250,"height":50,"color":"1","type":"text","text":""},
+		{"id":"6b5afb7bb568d97b","x":-200,"y":-380,"width":400,"height":225,"type":"file","file":"【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4KPT3M20.038S.webp"},
+		{"id":"3ae666f2795bea5c","x":-75,"y":120,"width":400,"height":400,"type":"file","file":"Isaac Newton.md"}
+	],
+	"edges":[
+		{"id":"f88ce53f56732ef2","fromNode":"6b5afb7bb568d97b","fromSide":"bottom","toNode":"bfd51e5d42be097b","toSide":"top"},
+		{"id":"ce00712a68f0e16a","fromNode":"bfd51e5d42be097b","fromSide":"right","toNode":"3ae666f2795bea5c","toSide":"top"}
+	]
+}
