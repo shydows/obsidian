@@ -11,11 +11,9 @@
             "id": "acd922b059045e6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "!! 智能计算系统.md",
-                "mode": "source",
-                "source": false
+                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!! 智能计算系统.md",
+                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!! 智能计算系统.md",
+                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!! 智能计算系统.md"
+                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
               }
             }
           },
@@ -168,18 +166,19 @@
   },
   "active": "acd922b059045e6d",
   "lastOpenFiles": [
-    "! 专业知识.md",
-    "!! 网络应用安全.md",
+    "!!!! 非专业知识.md",
+    "!!! 人脸标注-项目笔记.md",
+    "!!! 讲座笔记.md",
     "!! 硕士英语.md",
+    "!! 智能计算系统.md",
+    "! 专业知识.md",
+    "!!! 张钹院士-讲座笔记.md",
+    "!!! 学长经验分享-讲座笔记.md",
+    "!!! 段路明院士讲座.md",
+    "!!! 组会笔记.md",
+    "!! 网络应用安全.md",
     "! 论文笔记.md",
     "!! 可靠计算系统.md",
-    "!!! 组会笔记.md",
-    "!!! 学长经验分享讲座.md",
-    "!!! 张钹院士讲座.md",
-    "!!!! 非专业知识.md",
-    "!!! 开学典礼.md",
-    "!!! 标注项目笔记.md",
-    "!! 智能计算系统.md",
     "Pasted image 20240914191815.png",
     "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
     "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
@@ -197,7 +196,6 @@
     "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
     "论文阅读/王龙论文/Group_communication_protocols_under_erro.pdf",
     "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf.sb-e49c21d9-hahNAd",
-    "!!! 段路明院士讲座.md",
     "! 网络空间安全基础与前沿.md",
     "论文阅读/自查论文/A Fast Learning Algorithm for Deep Belief Nets.pdf",
     "论文阅读/自查论文",
