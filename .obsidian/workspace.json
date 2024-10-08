@@ -21,8 +21,12 @@
             "id": "c0ea355ad102be69",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "!!! 组会笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -144,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "!!! 组会笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "!!! 组会笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "!!! 组会笔记.md"
+              }
             }
           },
           {
@@ -223,6 +231,7 @@
   },
   "active": "c0ea355ad102be69",
   "lastOpenFiles": [
+    "!!! 标注项目笔记.md",
     "! 论文笔记.md",
     "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
     "!! 智能计算系统.md",
@@ -237,8 +246,7 @@
     "Pasted image 20240906075845.png",
     "Pasted image 20240901080020.png",
     "Pasted image 20240831232446.png",
-    "标注项目笔记.md",
-    "组会笔记.md",
+    "!!! 组会笔记.md",
     "!! 硕士英语.md",
     "!! 网络前沿.md",
     "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
