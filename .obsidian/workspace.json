@@ -4,22 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4585ff4c1f8400",
+        "id": "21ea800968a44823",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3b8f9c14f9d52f",
+            "id": "8ab319c4c18d87f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf"
+              }
+            }
+          },
+          {
+            "id": "c0ea355ad102be69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5a04a430df825bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "!! 智能计算系统.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f3bd4e745469564",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf"
+              }
+            }
+          },
+          {
+            "id": "fa3492f74052ad59",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
+              }
+            }
+          },
+          {
+            "id": "7f5556a2d71d46d6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
+              }
+            }
+          },
+          {
+            "id": "20e0f1e24fcb296c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240914191815.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:论文笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,54 +216,59 @@
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "workspaces:Manage workspace layouts": false,
       "media-extended:Open media": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc3b8f9c14f9d52f",
+  "active": "c0ea355ad102be69",
   "lastOpenFiles": [
-    "Me at the zooPT9S.webp",
-    "Me at the zooPT3S.webp",
-    "Obsidian.md",
-    "Pasted image 20240901230607.png",
-    "Untitled.canvas",
-    "Three laws of motion.md",
+    "! 论文笔记.md",
+    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
+    "!! 智能计算系统.md",
+    "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
+    "Pasted image 20240914191815.png",
+    "Pasted image 20240927143202.png",
+    "Pasted image 20240927143256.png",
+    "Pasted image 20240927150347.png",
+    "Pasted image 20240927151452.png",
+    "Pasted image 20240927171948.png",
+    "Pasted image 20240927172016.png",
+    "Pasted image 20240906075845.png",
     "Pasted image 20240901080020.png",
     "Pasted image 20240831232446.png",
+    "标注项目笔记.md",
+    "组会笔记.md",
+    "!! 硕士英语.md",
+    "!! 网络前沿.md",
+    "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
+    "论文阅读/回复论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
+    "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
+    "论文阅读/王龙论文/Group_communication_protocols_under_erro.pdf",
+    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf.sb-e49c21d9-hahNAd",
+    "!! 可靠计算系统.md",
+    "!! 网络应用安全.md",
+    "!!!! 非专业知识.md",
+    "!!! 段路明院士讲座.md",
+    "!!! 张钹院士讲座.md",
+    "!!! 学长经验分享讲座.md",
+    "!!! 开学典礼.md",
+    "! 网络空间安全基础与前沿.md",
+    "论文阅读/自查论文/A Fast Learning Algorithm for Deep Belief Nets.pdf",
+    "论文阅读/自查论文",
+    "论文阅读/未命名文件夹",
+    "test.md",
+    "LiteratureNotes/10.1109_DSN.2019.00025.md",
+    "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
+    "Obsidian.md",
+    "[[Ml-based.md",
+    "Media Note - 第二讲 2.2 从机器学习到神经网络（下）.md",
+    "Media Note - 智能计算系统 第二章 神经网络基础【中科院计算所陈云霁主讲 人工智能_深度学习_芯片必看】.md",
+    "Untitled.canvas",
+    "Three laws of motion.md",
     "test auto push.md",
-    "智能计算系统 听课笔记.md",
-    "段路明院士 讲座笔记.md",
     "Law of Inertia.md",
     "Isaac Newton.md",
-    "describe.md",
-    "论文阅读/DSN论文/PID-Piper. Recovering Robotic Vehicles from Physical Attacks.pdf",
-    "【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4KPT3M20.038S.webp",
-    "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
-    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
-    "论文阅读/DSN论文/A low-cost fault corrector for deep neural networks through range restriction.pdf",
-    "论文阅读/DSN论文/Ml-based Fault Injection for Autonomous Vehicles.md",
-    "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
-    "开学典礼 笔记.md",
-    "张钹院士 讲座笔记.md",
-    "智能计算系统 听课笔记3.md",
-    "Untitled 1.canvas",
-    "Media Note - 【死亡搁浅】在川西海拔4800米消失的三天两夜｜子龙秘境徒步 _ A7C2 _ EP26 _ 4K.md",
-    "Media Note - Me at the zoo.md",
-    "Pasted image 20240904200701.png",
-    "NOTE A low-cost.md",
-    "论文阅读/回复论文/Towards Reliability Assessment of Systolic Arrays.pdf",
-    "智能计算系统 听课笔记2.md",
-    "Pasted image 20240901075955.png",
-    "Pasted image 20240901080018.png",
-    "Untitled",
-    "().md",
-    "智能计算系统听课笔记",
-    "论文阅读/AI FI论文/LLTFI_Framework_Agnostic_Fault_Injection_for_Machine_Learning_Applications_Tools_and_Artifact_Track.pdf",
-    "论文阅读/回复论文/BinFI An Efficient Fault Injector for Safety-Critical Machine.pdf",
-    "论文阅读"
+    "Untitled 1.canvas"
   ]
 }
