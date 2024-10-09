@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acd922b059045e6d",
+            "id": "5ca000c4e5cd1b99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
+                "file": "! 专业知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a22d13b3f13e627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!! 智能计算系统.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5004348754883
+    "width": 262.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "863cf23d6513192f",
@@ -83,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
+                "file": "!! 智能计算系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
+                "file": "!! 智能计算系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
+                "file": "!! 智能计算系统.md"
               }
             }
           },
@@ -164,14 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd922b059045e6d",
+  "active": "2a22d13b3f13e627",
   "lastOpenFiles": [
-    "!!!! 非专业知识.md",
-    "!!! 人脸标注-项目笔记.md",
-    "!!! 讲座笔记.md",
-    "!! 硕士英语.md",
-    "!! 智能计算系统.md",
     "! 专业知识.md",
+    "!!!! 非专业知识.md",
+    "!! 智能计算系统.md",
+    "!!! 讲座笔记.md",
+    "!!! 人脸标注-项目笔记.md",
+    "!! 硕士英语.md",
+    "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
     "!!! 张钹院士-讲座笔记.md",
     "!!! 学长经验分享-讲座笔记.md",
     "!!! 段路明院士讲座.md",
@@ -180,7 +197,6 @@
     "! 论文笔记.md",
     "!! 可靠计算系统.md",
     "Pasted image 20240914191815.png",
-    "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
     "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
     "Pasted image 20240927150347.png",
     "Pasted image 20240927143202.png",
