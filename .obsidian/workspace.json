@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!! 智能计算系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!! 智能计算系统.md",
+                "file": "!! 硕士英语.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5004348754883,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "863cf23d6513192f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!! 智能计算系统.md",
+                "file": "!! 硕士英语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!! 智能计算系统.md",
+                "file": "!! 硕士英语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!! 智能计算系统.md"
+                "file": "!! 硕士英语.md"
               }
             }
           },
@@ -168,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +182,11 @@
   "active": "2a22d13b3f13e627",
   "lastOpenFiles": [
     "! 专业知识.md",
-    "!!!! 非专业知识.md",
-    "!! 智能计算系统.md",
-    "!!! 讲座笔记.md",
-    "!!! 人脸标注-项目笔记.md",
     "!! 硕士英语.md",
+    "!!! 人脸标注.md",
+    "!!! 讲座笔记.md",
+    "!! 智能计算系统.md",
+    "!!!! 非专业知识.md",
     "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
     "!!! 张钹院士-讲座笔记.md",
     "!!! 学长经验分享-讲座笔记.md",
