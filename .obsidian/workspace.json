@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!! 智能计算系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a22d13b3f13e627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!! 硕士英语.md",
+                "file": "! 专业知识.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!! 硕士英语.md",
+                "file": "! 专业知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!! 硕士英语.md",
+                "file": "! 专业知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!! 硕士英语.md"
+                "file": "! 专业知识.md"
               }
             }
           },
@@ -179,13 +166,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a22d13b3f13e627",
+  "active": "5ca000c4e5cd1b99",
   "lastOpenFiles": [
-    "! 专业知识.md",
     "!! 硕士英语.md",
+    "! 专业知识.md",
+    "!! 智能计算系统.md",
     "!!! 人脸标注.md",
     "!!! 讲座笔记.md",
-    "!! 智能计算系统.md",
     "!!!! 非专业知识.md",
     "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
     "!!! 张钹院士-讲座笔记.md",
