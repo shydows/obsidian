@@ -11,9 +11,11 @@
             "id": "5ca000c4e5cd1b99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
+                "file": "! 专业知识.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
+                "file": "! 专业知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
+                "file": "! 专业知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf"
+                "file": "! 专业知识.md"
               }
             }
           },
@@ -166,12 +168,13 @@
   },
   "active": "5ca000c4e5cd1b99",
   "lastOpenFiles": [
+    "!! 智能计算系统.md",
     "!! 硕士英语.md",
     "! 专业知识.md",
-    "!! 智能计算系统.md",
+    "!!!! 非专业知识.md",
     "!!! 人脸标注.md",
     "!!! 讲座笔记.md",
-    "!!!! 非专业知识.md",
+    "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
     "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
     "!!! 张钹院士-讲座笔记.md",
     "!!! 学长经验分享-讲座笔记.md",
@@ -191,7 +194,6 @@
     "Pasted image 20240906075845.png",
     "Pasted image 20240901080020.png",
     "Pasted image 20240831232446.png",
-    "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
     "论文阅读/回复论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
     "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
     "论文阅读/王龙论文/Group_communication_protocols_under_erro.pdf",
