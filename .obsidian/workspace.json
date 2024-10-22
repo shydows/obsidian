@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!! 智能计算系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a20d63eee097f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!!! 实验室.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!!! 实验室.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!!! 实验室.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! 专业知识.md"
+                "file": "!!! 实验室.md"
               }
             }
           },
@@ -166,16 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca000c4e5cd1b99",
+  "active": "8a20d63eee097f34",
   "lastOpenFiles": [
     "!! 智能计算系统.md",
-    "!! 硕士英语.md",
     "! 专业知识.md",
-    "!!!! 非专业知识.md",
-    "!!! 人脸标注.md",
+    "!!! 实验室.md",
     "!!! 讲座笔记.md",
-    "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
+    "!! 硕士英语.md",
+    "!!!! 非专业知识.md",
     "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
+    "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
+    "论文阅读/王龙论文/Group_communication_protocols_under_erro.pdf",
+    "论文阅读/回复论文/Towards Reliability Assessment of Systolic Arrays.pdf",
+    "论文阅读/回复论文/Resilience Assessment of Large Language Models under Transient Hardware Faults.pdf",
+    "论文阅读/回复论文/BinFI An Efficient Fault Injector for Safety-Critical Machine.pdf",
+    "论文阅读/回复论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
     "!!! 张钹院士-讲座笔记.md",
     "!!! 学长经验分享-讲座笔记.md",
     "!!! 段路明院士讲座.md",
@@ -194,14 +212,9 @@
     "Pasted image 20240906075845.png",
     "Pasted image 20240901080020.png",
     "Pasted image 20240831232446.png",
-    "论文阅读/回复论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
     "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
-    "论文阅读/王龙论文/Group_communication_protocols_under_erro.pdf",
     "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf.sb-e49c21d9-hahNAd",
     "! 网络空间安全基础与前沿.md",
-    "论文阅读/自查论文/A Fast Learning Algorithm for Deep Belief Nets.pdf",
-    "论文阅读/自查论文",
-    "论文阅读/未命名文件夹",
     "test.md",
     "LiteratureNotes/10.1109_DSN.2019.00025.md",
     "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
