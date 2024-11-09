@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0e178fc50a1ab59a",
+        "id": "e969e6d1620112dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca000c4e5cd1b99",
+            "id": "5f6999856f78fc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!! 智能计算系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a20d63eee097f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!!! 实验室.md",
+                "file": "! 专业知识.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!!! 实验室.md",
+                "file": "! 专业知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!!! 实验室.md",
+                "file": "! 专业知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!!! 实验室.md"
+                "file": "! 专业知识.md"
               }
             }
           },
@@ -174,26 +161,30 @@
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "media-extended:Open media": false,
       "graph:Open graph view": false,
+      "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a20d63eee097f34",
+  "active": "5f6999856f78fc89",
   "lastOpenFiles": [
+    "!! 实验室.md",
     "!! 智能计算系统.md",
-    "! 专业知识.md",
-    "!!! 实验室.md",
     "!!! 讲座笔记.md",
     "!! 硕士英语.md",
+    "论文阅读/AI FI论文/*LLTFI_Framework_Agnostic_Fault_Injection_for_Machine_Learning_Applications_Tools_and_Artifact_Track.pdf",
+    "! 专业知识.md",
+    "Pasted image 20241107101313.png",
     "!!!! 非专业知识.md",
-    "论文阅读/王龙论文/Characterization of Linux Kernel Behavior under Errors.pdf",
-    "论文阅读/王龙论文/Checkpointing of Control Structures in Main Memory Database Systems.pdf",
-    "论文阅读/王龙论文/Group_communication_protocols_under_erro.pdf",
-    "论文阅读/回复论文/Towards Reliability Assessment of Systolic Arrays.pdf",
-    "论文阅读/回复论文/Resilience Assessment of Large Language Models under Transient Hardware Faults.pdf",
-    "论文阅读/回复论文/BinFI An Efficient Fault Injector for Safety-Critical Machine.pdf",
+    "论文阅读/自查论文/Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.pdf",
+    "论文阅读/自查论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
+    "论文阅读/DSN论文/_ML-driven Malware that Targets AV Safety.pdf",
+    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
+    "论文阅读/王龙论文/_Group_communication_protocols_under_erro.pdf",
+    "论文阅读/王龙论文/_Checkpointing of Control Structures in Main Memory Database Systems.pdf",
+    "论文阅读/王龙论文/_Characterization of Linux Kernel Behavior under Errors.pdf",
     "论文阅读/回复论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
+    "论文阅读/回复论文/BinFI An Efficient Fault Injector for Safety-Critical Machine.pdf",
     "!!! 张钹院士-讲座笔记.md",
     "!!! 学长经验分享-讲座笔记.md",
     "!!! 段路明院士讲座.md",
@@ -202,7 +193,6 @@
     "! 论文笔记.md",
     "!! 可靠计算系统.md",
     "Pasted image 20240914191815.png",
-    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
     "Pasted image 20240927150347.png",
     "Pasted image 20240927143202.png",
     "Pasted image 20240927143256.png",
@@ -211,9 +201,6 @@
     "Pasted image 20240927172016.png",
     "Pasted image 20240906075845.png",
     "Pasted image 20240901080020.png",
-    "Pasted image 20240831232446.png",
-    "论文阅读/DSN论文/ML-driven Malware that Targets AV Safety.pdf",
-    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf.sb-e49c21d9-hahNAd",
     "! 网络空间安全基础与前沿.md",
     "test.md",
     "LiteratureNotes/10.1109_DSN.2019.00025.md",
