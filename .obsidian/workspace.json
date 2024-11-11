@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "ddca3bb53e87eb1a",
+    "id": "2eed1e9d5fe51bde",
     "type": "split",
     "children": [
       {
-        "id": "e969e6d1620112dd",
+        "id": "b632000290ba1c68",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6999856f78fc89",
+            "id": "3d1d7ec9d9baba7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!!!! 非专业知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef2750c011dcca23",
+    "id": "4240661db1d577b3",
     "type": "split",
     "children": [
       {
-        "id": "fa65b47ced0c4bcd",
+        "id": "f89c2f96ce9c2c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "313ab57049f3fecb",
+            "id": "0feca75309ad41d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "336211b6ce71074a",
+            "id": "75e18efcadf036b8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:论文笔记",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b64eb041269b2ba4",
+            "id": "3c8a1f6b25ed6f9b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "863cf23d6513192f",
+    "id": "58a5343ce0157f97",
     "type": "split",
     "children": [
       {
-        "id": "677a692c0bc77e5a",
+        "id": "201e203592c4c3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "02e262e8f315259e",
+            "id": "6fcaf7fceac8acab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!!!! 非专业知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "de21845f320aa523",
+            "id": "c93b3e55e14ace9b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! 专业知识.md",
+                "file": "!!!! 非专业知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60241d9cbae45a55",
+            "id": "b2958c46622686d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "642a1a5f7ba9288b",
+            "id": "075b3ce7cc58d8ae",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "! 专业知识.md"
+                "file": "!!!! 非专业知识.md"
               }
             }
           },
           {
-            "id": "53cc0a4429cf4d39",
+            "id": "95eb2e59578553b8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "478e69ae59531299",
+            "id": "fe3dccd125efaf7c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,66 +154,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
       "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6999856f78fc89",
+  "active": "3d1d7ec9d9baba7c",
   "lastOpenFiles": [
-    "!! 实验室.md",
-    "!! 智能计算系统.md",
     "!!! 讲座笔记.md",
     "!! 硕士英语.md",
-    "论文阅读/AI FI论文/*LLTFI_Framework_Agnostic_Fault_Injection_for_Machine_Learning_Applications_Tools_and_Artifact_Track.pdf",
+    "!! 智能计算系统.md",
+    "!! 实验室.md",
     "! 专业知识.md",
-    "Pasted image 20241107101313.png",
-    "!!!! 非专业知识.md",
-    "论文阅读/自查论文/Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.pdf",
-    "论文阅读/自查论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
-    "论文阅读/DSN论文/_ML-driven Malware that Targets AV Safety.pdf",
-    "论文阅读/DSN论文/Ml-based fault injection for autonomous vehicles. A case for bayesian fault injection.pdf",
-    "论文阅读/王龙论文/_Group_communication_protocols_under_erro.pdf",
-    "论文阅读/王龙论文/_Checkpointing of Control Structures in Main Memory Database Systems.pdf",
-    "论文阅读/王龙论文/_Characterization of Linux Kernel Behavior under Errors.pdf",
-    "论文阅读/回复论文/A Survey on Failure Analysis and Fault Injection in AI Systems.pdf",
-    "论文阅读/回复论文/BinFI An Efficient Fault Injector for Safety-Critical Machine.pdf",
-    "!!! 张钹院士-讲座笔记.md",
-    "!!! 学长经验分享-讲座笔记.md",
-    "!!! 段路明院士讲座.md",
-    "!!! 组会笔记.md",
-    "!! 网络应用安全.md",
-    "! 论文笔记.md",
-    "!! 可靠计算系统.md",
-    "Pasted image 20240914191815.png",
-    "Pasted image 20240927150347.png",
-    "Pasted image 20240927143202.png",
-    "Pasted image 20240927143256.png",
-    "Pasted image 20240927151452.png",
-    "Pasted image 20240927171948.png",
-    "Pasted image 20240927172016.png",
-    "Pasted image 20240906075845.png",
-    "Pasted image 20240901080020.png",
-    "! 网络空间安全基础与前沿.md",
-    "test.md",
-    "LiteratureNotes/10.1109_DSN.2019.00025.md",
-    "论文阅读/DSN论文/A Low-cost Fault Corrector for.md",
-    "Obsidian.md",
-    "[[Ml-based.md",
-    "Media Note - 第二讲 2.2 从机器学习到神经网络（下）.md",
-    "Media Note - 智能计算系统 第二章 神经网络基础【中科院计算所陈云霁主讲 人工智能_深度学习_芯片必看】.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Three laws of motion.md",
-    "test auto push.md",
-    "Law of Inertia.md",
-    "Isaac Newton.md",
-    "Untitled 1.canvas"
+    "Welcome.md",
+    "Pasted image 20240927171948.png",
+    "Pasted image 20240914191815.png",
+    "Pasted image 20240913213328.png",
+    "Pasted image 20240913221348.png",
+    "Pasted image 20240927150810.png",
+    "!!!! 非专业知识.md",
+    "Pasted image 20240913221202.png",
+    "Pasted image 20240927151452.png",
+    "Pasted image 20240927151238.png",
+    "Pasted image 20240901230607.png",
+    "Pasted image 20240927145711.png"
   ]
 }
