@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!!!! 非专业知识.md",
+                "file": "! 专业知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!!!! 非专业知识.md",
+                "file": "! 专业知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!!!! 非专业知识.md",
+                "file": "! 专业知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!!!! 非专业知识.md"
+                "file": "! 专业知识.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "3d1d7ec9d9baba7c",
   "lastOpenFiles": [
+    "!!!! 非专业知识.md",
     "!!! 讲座笔记.md",
     "!! 硕士英语.md",
     "!! 智能计算系统.md",
@@ -181,7 +182,6 @@
     "Pasted image 20240913213328.png",
     "Pasted image 20240913221348.png",
     "Pasted image 20240927150810.png",
-    "!!!! 非专业知识.md",
     "Pasted image 20240913221202.png",
     "Pasted image 20240927151452.png",
     "Pasted image 20240927151238.png",
